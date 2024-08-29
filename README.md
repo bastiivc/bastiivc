@@ -1,13 +1,15 @@
-## ωєℓ¢σмє тσ му ρяσƒιℓє 
 
 
-### Languages:
+## 🦇 ωєℓ¢σмє тσ му ρяσƒιℓє 🦇
+
+
+### Languages: 🕷️
   
 ![C](https://img.shields.io/badge/C%20-000000?style=for-the-badge&logo=c&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python%20-000000?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Softwares and Tools:
+### Softwares and Tools: 🕸️
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) 
@@ -15,7 +17,7 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=black&labelColor=black)
 
 
-### Social and contact
+### Social and contact 🐍
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?logo=linkedin&logoColor=dark)](https://www.linkedin.com/in/basti%C3%A1n-mej%C3%ADas-cornejo-236170312/)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?logo=gmail&logoColor=red)](mailto:basti.mejiasss@gmail.com)
@@ -24,7 +26,7 @@
 [![Discord](https://img.shields.io/badge/Discord-000000?logo=discord&logoColor=7289da)](https://discord.com/users/464193218091679769)
 [![Steam](https://img.shields.io/badge/Steam-black?logo=steam)](https://steamcommunity.com/profiles/76561198398445377/)
 
-### My supplies
+### My supplies 🐉
 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-000000?style=for-the-badge&logo=openai&logoColor=white)
