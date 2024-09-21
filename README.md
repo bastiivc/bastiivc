@@ -8,14 +8,18 @@
 ![C](https://img.shields.io/badge/C%20-000000?style=for-the-badge&logo=c&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python%20-000000?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Softwares and Tools: 🕸️
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white) 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) 
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white) 
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=black&labelColor=black)
-
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+![NodeJS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Social and contact 🐍
 
